@@ -1,2 +1,2 @@
 # lituus.github.io
-Agência Ltuus - Criatividade Anunciada
+Agência Lituus - Criatividade Anunciada
