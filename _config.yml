@@ -1,0 +1,77 @@
+url: http://127.0.0.1
+baseurl: 
+
+# Site settings
+title: Agência Lituus
+email: agencia.lituus@gmail.com
+description: "Agência Lituus."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4539ac
+  secondary: 372d88
+  secondary-dark: 333
+  #primary: fed136
+  #secondary: fec503
+  #secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Fernando "ferox" dos Santos
+  pic: 1
+  position: Hacker. Open Source Specialist. Lead Developer.
+  social:
+    - title: linkedin
+      url: https://br.linkedin.com/in/ferox
+    - title: facebook
+      url: https://www.facebook.com/feroxetibr
+    - title: skype
+      url: skype:feroxetibr?add
+    - title: twitter
+      url: https://twitter.com/feroxetibr
+    - title: google-plus
+      url: #
+    - title: github
+      url: https://github.com/ferox
+
+- name: Henrique Ribeiro
+  pic: 2
+  position: Lead Marketer.
+  social:
+    #- title: linkedin
+    #  url: #
+    - title: facebook
+      url: https://www.facebook.com/henriquecorrearibeiro
+    - title: skype
+      url: skype:henrique.ribeiro.ti?add
+
+- name: Guilherme Carvalho
+  pic: 3
+  position: Chief Financial Officer.
+  social:
+    #- title: linkedin
+    #  url: #
+    - title: facebook
+      url: https://www.facebook.com/gepacarvalho
+    - title: skype
+      url: skype:live:guilhermepdc_1?add
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: #
+  - title: facebook
+    url: #
+  - title: instagram
+    url: #
+  - title: twitter
+    url: #
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
