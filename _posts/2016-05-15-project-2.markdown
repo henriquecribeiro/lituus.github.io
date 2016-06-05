@@ -4,13 +4,13 @@ subtitle: Website Development
 layout: default
 modal-id: 2
 date: 2016-05-12
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: portfolio-compass-website.png
+thumbnail: portfolio-compass-website-thumbnail.png
 alt: image-alt
 project-date: Maio 2016
 client: Compass Capital
 category: Web Development
 site: http://www.compasscapital.com.br/
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
 
 ---
