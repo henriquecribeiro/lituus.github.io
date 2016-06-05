@@ -378,8 +378,8 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba(69,57,172, .9);
+    background: #6c18f3; /* Fallback when no plugin support */
+    background: rgba(4539ac, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
