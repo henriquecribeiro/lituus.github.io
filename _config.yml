@@ -1,5 +1,5 @@
 url: http://127.0.0.1
-baseurl: 
+baseurl:
 
 # Site settings
 title: Agência Lituus
@@ -58,14 +58,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: #
   - title: facebook
-    url: #
-  - title: instagram
-    url: #
-  - title: twitter
-    url: #
+    url: https://www.facebook.com/agencia.lituus/
 
 # Postal address (add as many lines as necessary)
 address:
