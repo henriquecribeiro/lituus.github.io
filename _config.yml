@@ -45,17 +45,6 @@ people:
     - title: skype
       url: skype:henrique.ribeiro.ti?add
 
-- name: Guilherme Carvalho
-  pic: 3
-  position: Chief Financial Officer.
-  social:
-    #- title: linkedin
-    #  url: #
-    - title: facebook
-      url: https://www.facebook.com/gepacarvalho
-    - title: skype
-      url: skype:live:guilhermepdc_1?add
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
